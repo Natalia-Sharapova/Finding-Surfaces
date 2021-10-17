@@ -13,7 +13,7 @@
 		9B562ADA271B3A5800FB0EA4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9B562AD8271B3A5800FB0EA4 /* Main.storyboard */; };
 		9B562ADC271B3A5800FB0EA4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9B562ADB271B3A5800FB0EA4 /* Assets.xcassets */; };
 		9B562ADF271B3A5800FB0EA4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9B562ADD271B3A5800FB0EA4 /* LaunchScreen.storyboard */; };
-		9B845FEE271C91C9004640D0 /* ScreenShot.PNG in Resources */ = {isa = PBXBuildFile; fileRef = 9B845FED271C91C9004640D0 /* ScreenShot.PNG */; };
+		9B845FF0271C99D7004640D0 /* Screenshot.png in Resources */ = {isa = PBXBuildFile; fileRef = 9B845FEF271C99D7004640D0 /* Screenshot.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,7 +25,7 @@
 		9B562ADB271B3A5800FB0EA4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9B562ADE271B3A5800FB0EA4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9B562AE0271B3A5800FB0EA4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		9B845FED271C91C9004640D0 /* ScreenShot.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ScreenShot.PNG; sourceTree = SOURCE_ROOT; };
+		9B845FEF271C99D7004640D0 /* Screenshot.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Screenshot.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -73,7 +73,7 @@
 		9B845FEC271C91B6004640D0 /* Screenshot */ = {
 			isa = PBXGroup;
 			children = (
-				9B845FED271C91C9004640D0 /* ScreenShot.PNG */,
+				9B845FEF271C99D7004640D0 /* Screenshot.png */,
 			);
 			path = Screenshot;
 			sourceTree = "<group>";
@@ -137,9 +137,9 @@
 			files = (
 				9B562AD5271B3A5800FB0EA4 /* art.scnassets in Resources */,
 				9B562ADF271B3A5800FB0EA4 /* LaunchScreen.storyboard in Resources */,
-				9B845FEE271C91C9004640D0 /* ScreenShot.PNG in Resources */,
 				9B562ADC271B3A5800FB0EA4 /* Assets.xcassets in Resources */,
 				9B562ADA271B3A5800FB0EA4 /* Main.storyboard in Resources */,
+				9B845FF0271C99D7004640D0 /* Screenshot.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
